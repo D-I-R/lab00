@@ -15,7 +15,7 @@
 - [x] 9. Составить отчет и отправить ссылку личным сообщением в **Slack**
 
 ## Tutorial
-
+Проверка пакетов окружения и их версии
 ```sh
 # check development environment
 $ cmake --version
