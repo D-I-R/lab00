@@ -17,26 +17,25 @@
 ## Tutorial
 Проверка пакетов окружения и их версии
 ```sh
-# check development environment
-$ cmake --version
+$ cmake --version  #Проверка версии cmake
 cmake version 3.7.2
-$ curl --version
+$ curl --version  #Проверка версии curl
 curl 7.52.1
-$ git --version
+$ git --version  #Проверка версии git
 git version 2.11.0
-$ g++ --version
+$ g++ --version  #Проверка версии g++
 g++ (Debian 6.3.0-18+deb9u1) 6.3.0 20170516
-$ hub --version
+$ hub --version  #Проверка версии hub
 hub version 2.9.0
-$ make --version
+$ make --version  #Проверка версии make
 GNU Make 4.1
-$ subl --version
+$ subl --version  #Проверка версии subl
 Sublime Text Build 3176
-$ tree --version
+$ tree --version  #Проверка версии tree
 tree v1.7.0 
-$ wget --version
+$ wget --version  #Проверка версии wget 
 GNU Wget 1.18
-$ openssl version
+$ openssl version  #Проверка версии openssl
 OpenSSL 1.1.0
 ```
 
