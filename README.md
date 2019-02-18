@@ -19,16 +19,26 @@
 ```sh
 # check development environment
 $ cmake --version
+cmake version 3.7.2
 $ curl --version
+curl 7.52.1
 $ git --version
+git version 2.11.0
 $ g++ --version
+g++ (Debian 6.3.0-18+deb9u1) 6.3.0 20170516
 $ hub --version
+hub version 2.9.0
 $ make --version
+GNU Make 4.1
 $ subl --version
+Sublime Text Build 3176
 $ tree --version
+tree v1.7.0 
 $ wget --version
+GNU Wget 1.18
 $ openssl version
-```
+OpenSSL 1.1.0
+
 
 ## Links
 
